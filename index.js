@@ -30,8 +30,9 @@ http.createServer(function (req, res) {
   } else {
     res.writeHead(200, {'Content-Type': 'text/html'});
     res.write('<form action="aftersubmit" method="post" enctype="multipart/form-data">');
-    res.write('<label for="cardname_id">cardname: </label>');
-    res.write('<input type="text" name="cardname_name" id="cardname_id"><br>');
+    res.write('<p>A very simple basic test form</p>');
+    res.write('<label for="myfield_id">myfield: </label>');
+    res.write('<input type="text" name="myfield_name" id="myfield_id"><br>');
     res.write('<input type="submit">');
     res.write('</form>');
     return res.end();
