@@ -1,11 +1,6 @@
 var http          = require('http');
+var https         = require('https');
 var formidable    = require('formidable');
-var fs            = require('fs');
-var rl            = require('readline');
-var events        = require('events');
-var eventemitter  = new events.EventEmitter();
-var myfilename    = "";
-var mylines       = [];
 const PORT        = process.env.PORT || 5000
 
 
