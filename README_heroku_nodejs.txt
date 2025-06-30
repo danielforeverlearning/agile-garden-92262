@@ -93,6 +93,49 @@ heroku logs --tail
 
 
 
+
+
+
+
+
+GOT WORKING render.com webservice 6/29/2025 
+environment variable BASE_URL 0.0.0.0
+node index.js
+******** simple custom module datetime example *********
+fast-headland-54688
+
+
+
+
+GOT WORKING render.com webservice 6/29/2025 
+environment variable BASE_URL 0.0.0.0
+node index.js
+******** example form and upload file and opening file and reading file *****
+stark-ridge-73380
+
+
+
+https://api.magicthegathering.io/v1/cards?name=%22nicol%20bolas%22
+
+GOT WORKING render.com webservice 6/29/2025 
+environment variable BASE_URL 0.0.0.0
+environment variable TIMES 8
+node index.js
+******** shows example of express.js *************
+******** and changed it to use mtgo 3rd party api call ***********
+node-js-getting-started
+
+
+
+
+
+GOT WORKING render.com webservice 6/29/2025 environment variable BASE_URL 0.0.0.0
+node index.js
+********* simple mtgo 3rd-party api call ************
+ancient-eyrie-45718
+
+
+
 GOT WORKING render.com webservice 6/29/2025 environment variable BASE_URL 0.0.0.0
 node index.js
 ******** example form *********************
