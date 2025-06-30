@@ -117,16 +117,10 @@ https://ancient-eyrie-45718.herokuapp.com/
 https://git.heroku.com/ancient-eyrie-45718.git
 
 
-********* first react app *******************
-https://whispering-eyrie-67862.herokuapp.com/
-https://git.heroku.com/whispering-eyrie-67862.git
 
+GOT WORKING render.com webservice 6/29/2025 environment variable BASE_URL 0.0.0.0
 ******** example form *********************
 agile-garden-92262
 
----------------------------
-2025june29 render.com
----------------------------
-add environment variable BASE_URL  0.0.0.0
 
 
